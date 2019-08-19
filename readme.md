@@ -7,6 +7,7 @@ Our primary application codebases for the Tailwind Traders demo company can be f
 - Inventory Service (ASP.Net Core): https://github.com/sjwaight/AzureMigrationDotNet
 - Product Service (NodeJS): https://github.com/sjwaight/AzureAppMigrationNode
 - Frontend SPA (React): https://github.com/sjwaight/AzureAppMigrationReact
+- Reports Functions (NodeJS): https://github.com/sjwaight/AzureAppMigrationServerless
 
 We are mainly using Azure DevOps to deploy these codebases to Azure, though for the Inventory Service we are using [Oryx](https://github.com/Microsoft/Oryx), which is built into Azure App Service's [Deployment Center](https://docs.microsoft.com/en-us/azure/app-service/deploy-continuous-deployment).
 

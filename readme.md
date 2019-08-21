@@ -31,7 +31,7 @@ Here are all the "Useful Links" from the sessions.
 - Microsoft Learn - Relational Data in Azure: https://docs.microsoft.com/en-us/learn/paths/work-with-relational-data-in-azure/
 - Migration Partners: http://aka.ms/AzureExpertMSP
 
-### Automating your App Build and Deployment to Azure
+### Automating your app build and deployment to Azure
 
 - Azure DevOps Documentation: https://aka.ms/AzureDevOpsDocs
 - DevOps Resource Centre: https://aka.ms/DevOpsResourceCenter
@@ -47,3 +47,11 @@ Here are all the "Useful Links" from the sessions.
 - API Management Key Concepts: https://docs.microsoft.com/en-us/azure/api-management/api-management-key-concepts
 - API Management Tutorials: https://docs.microsoft.com/en-us/azure/api-management/import-and-publish
 - API Management Samples: https://github.com/Azure/api-management-samples
+
+### Containerise your apps with Azure
+
+- Administer Containers Learning Path – Microsoft Learn: https://docs.microsoft.com/en-us/learn/paths/administer-containers-in-azure/
+- Azure Container Registry Tasks: https://docs.microsoft.com/en-us/azure/container-registry/container-registry-tasks-overview
+- Build Containers with Azure DevOps: https://docs.microsoft.com/en-us/azure/devops/pipelines/languages/docker
+- Web Apps for Containers: https://azure.microsoft.com/en-us/services/app-service/containers/
+- Tailwind on AKS: https://aka.ms/TailwindOnAKS
